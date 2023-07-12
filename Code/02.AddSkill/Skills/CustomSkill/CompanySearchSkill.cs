@@ -5,7 +5,7 @@ public class CompanySearchSkill
     [SKFunction("search employee infomation")]
     public string EmployeeSearch(string input)
     {
-        return "欢迎了解社保相关内容";
+        return "歡迎瞭解社保相關內容";
     }
 
     [SKFunction("search weather")]
