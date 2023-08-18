@@ -31,11 +31,11 @@ Special thanks to Meat @pperlee for proofreading, and 保哥 @doggy8088 for trad
 
 | 章節                                              | 進入                                                        |
 | ------------------------------------------------- | ----------------------------------------------------------- |
-| 前言. Azure OpenAI Service 入門                   | <a href="./CN/00.KickOffCN.md">進入</a>                     |
-| 第一章. 問題分類                                  | <a href="./CN/01.HowToQuestionClassificationCN.md">進入</a> |
-| 第二章. 管理你的技能                              | <a href="./CN/02.AddSkillCN.md">進入</a>                    |
-| 第三章. 結合 Azure AI 拓展你的技能                | <a href="./CN/03.ImportAzureAICN.md">進入</a>                  |
-| 第四章. 透過 Embedding 調教你的 OpenAI 模型     | <a href="./CN/04.EmbeddingCN.md">進入</a>                  |
+| 前言. Azure OpenAI Service 入門                   | <a href="./CN/00.KickOffCN">進入</a>                     |
+| 第一章. 問題分類                                  | <a href="./CN/01.HowToQuestionClassificationCN">進入</a> |
+| 第二章. 管理你的技能                              | <a href="./CN/02.AddSkillCN">進入</a>                    |
+| 第三章. 結合 Azure AI 拓展你的技能                | <a href="./CN/03.ImportAzureAICN">進入</a>                  |
+| 第四章. 透過 Embedding 調教你的 OpenAI 模型     | <a href="./CN/04.EmbeddingCN">進入</a>                  |
 | 第五章. 透過快取管理你的問答上下文邏輯          | 進入                                                        |
 | 第六章. 透過 Semantic Kernel 架構你的 OpenAI 專案 | 進入                                                        |
 
